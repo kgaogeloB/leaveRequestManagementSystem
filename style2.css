@@ -1,0 +1,14 @@
+table {
+	border: 2px solid Tomato;
+	background-color: Tomato;
+	color: white;
+}
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
